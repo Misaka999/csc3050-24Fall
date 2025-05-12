@@ -1,1 +1,1 @@
-# csc3050-24Fall
+CUHKSZ csc3050 2024-fall projects
